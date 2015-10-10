@@ -1,0 +1,25 @@
+{
+  "name": "selectors",
+  "version": "0.0.1",
+  "dependencies": {
+    "xtend": "latest"
+  },
+  "main": "./selectors.js",
+  "description": "Immutable JSON selectors...",
+  "homepage": "https://github.com/tounano/selectors/",
+  "author": "ClickHere <js@clickhere.co.il>",
+  "keywords": [
+    "selectors",
+    "selector",
+    "json",
+    "immutable"
+  ],
+  "licenses": {
+    "type": "The MIT License",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tounano/selectors"
+  }
+}
